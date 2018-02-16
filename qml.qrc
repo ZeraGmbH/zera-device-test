@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RecordDataPage.qml</file>
+        <file>CompareDataPage.qml</file>
+        <file>ResultPage.qml</file>
+        <file>datalogger/SnapshotLogger.qml</file>
+    </qresource>
+</RCC>
